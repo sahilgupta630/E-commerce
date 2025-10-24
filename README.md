@@ -3,7 +3,7 @@
 A fully responsive E-commerce website built using HTML, CSS, and JavaScript.
 This project helped to understand the structure and design of an online shopping platform and learn how front-end technologies work together to create an interactive user experience.
 
-[<img alt="Build-Responsive-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build-Responsive-Ecommerce-Website-With-HTML-CSS-JavaScript.png?raw=true" />]
+<img alt="Build-Responsive-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build-Responsive-Ecommerce-Website-With-HTML-CSS-JavaScript.png?raw=true" />
 
 ## About the Project
 
@@ -18,7 +18,7 @@ CSS: Styled the pages using modern layout techniques such as Flexbox and Grid to
 
 JavaScript: Added interactivity like product filtering, adding items to the cart, and handling UI events.
 
-Bootstrap : Learned to use pre-built components for responsiveness and faster design
+Bootstrap: Learned to use pre-built components for responsiveness and faster design
 
 ## Features
 
@@ -40,31 +40,12 @@ CSS3
 
 JavaScript (ES6)
 
-## Project Structure
-
-Ecommerce-Website/
-│
-├── index.html
-├── shop.html
-├── product.html
-├── blog.html
-├── cart.html
-│
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-└── images/
-    └── (all product and banner images)
-
 ## How to Run
 
 Clone the repository:
 git clone https://github.com/your-username/your-repo-name.git
 Open the project folder.
-Run 'index.html' in your browser.
+Run `index.html` in your browser.
 
 ## Future Improvements
 
