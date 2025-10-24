@@ -12,47 +12,47 @@ The goal of this project was to practice responsive web design, UI/UX principles
 
 ## What I Learned
 
-HTML: Structured web pages using semantic elements like 'header', 'section', and 'footer'.
+* **HTML:** Structured web pages using semantic elements like 'header', 'section', and 'footer'.
 
-CSS: Styled the pages using modern layout techniques such as Flexbox and Grid to make them responsive.
+* **CSS:** Styled the pages using modern layout techniques such as Flexbox and Grid to make them responsive.
 
-JavaScript: Added interactivity like product filtering, adding items to the cart, and handling UI events.
+* **JavaScript:** Added interactivity like product filtering, adding items to the cart, and handling UI events.
 
-Bootstrap: Learned to use pre-built components for responsiveness and faster design
+* **Bootstrap:** Learned to use pre-built components for responsiveness and faster design
 
 ## Features
 
-Responsive design for mobile, tablet, and desktop.
+* Responsive design for mobile, tablet, and desktop.
 
-Product listing and single product detail pages.
+* Product listing and single product detail pages.
 
-Shopping cart functionality (add/remove products).
+* Shopping cart functionality (add/remove products).
 
-Simple and clean UI inspired by modern e-commerce sites.
+* Simple and clean UI inspired by modern e-commerce sites.
 
-Organized folder structure with images, CSS, and JS files.
+* Organized folder structure with images, CSS, and JS files.
 
 ## Technologies Used
 
-HTML5
+* **HTML5**
 
-CSS3
+* **CSS3**
 
-JavaScript (ES6)
+* **JavaScript (ES6)**
 
 ## How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
-Open the project folder.
-Run `index.html` in your browser.
+1. git clone https://github.com/your-username/your-repo-name.git
+2. Open the project folder.
+3. Run `index.html` in your browser.
 
 ## Future Improvements
 
-Add backend integration (Node.js or Firebase).
+* Add backend integration (Node.js or Firebase).
 
-Include payment gateway simulation.
+* Include payment gateway simulation.
 
-Add product search and filtering.
+* Add product search and filtering.
 
-Create a user authentication system.
+* Create a user authentication system.
